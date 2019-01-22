@@ -1,5 +1,5 @@
 # tf2.0-preview_demo
-mnist on tf2.0-preview
+mnist on tf2.0-preview(Tensorflow 2.0)
 
 train and restore_eval use ckpt
 
