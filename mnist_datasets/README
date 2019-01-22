@@ -1,0 +1,7 @@
+this dir:
+keras mnist inference:
+
+x_train.npy
+y_train.npy
+x_test.npy
+y_test.npy
